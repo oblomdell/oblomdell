@@ -7,6 +7,7 @@ I'm a junior developer always eager and motivated to learn new things.
 - 🎓 Graduate in Computer Science & Information Architecture
 - 📍 Based in Malmö, Sweden
 - 👨‍💻 Currently focused on React & Next.js
+
 [→ Find my projects here](https://oliverblomdell.se)
 
 ## 🛠 Tech stack
