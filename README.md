@@ -15,7 +15,8 @@ I'm a junior developer always eager and motivated to learn new things.
 - **Languages:** JavaScript, TypeScript, Python, SQL
 - **Web & APIs:** React & Next.js, Node.js & Express, REST
 
-## Where to find me
+## 🌐 Where to find me
+
 - 🌍 [oliverblomdell.se](https://oliverblomdell.se) (Coming very soon)
 - 💼 [LinkedIn](https://www.linkedin.com/in/oliverblomdell/)
 <!--
