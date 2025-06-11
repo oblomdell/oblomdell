@@ -1,5 +1,22 @@
-## Hi there 👋
+# Hi, I'm Oliver 👋
 
+I'm a junior developer always eager and motivated to learn new things.
+
+## 🔍 About me
+
+- 🎓 Graduate in Computer Science & Information Architecture
+- 📍 Based in Malmö, Sweden
+- 👨‍💻 Currently focused on React & Next.js
+- [→ Find my projects here](oliverblomdell.se)
+
+## 🛠 Tech stack
+
+- **Languages:** JavaScript, TypeScript, Python, SQL
+- **Web & APIs:** React & Next.js, Node.js & Express, REST
+
+## Where to find me
+- 🌍 [oliverblomdell.se](htts://oliverblomdell.se) (Coming very soon)
+- 💼 [LinkedIn](https://www.linkedin.com/in/oliverblomdell/)
 <!--
 **oblomdell/oblomdell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
