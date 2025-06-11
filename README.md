@@ -15,7 +15,7 @@ I'm a junior developer always eager and motivated to learn new things.
 
 ## 🌐 Find me
 
-- 🌍 [Find my projects here](https://oliverblomdell.se) (Coming very soon)
+- 🌍 [My projects](https://oliverblomdell.se) (Coming very soon)
 - 💼 [LinkedIn](https://www.linkedin.com/in/oliverblomdell/)
 <!--
 **oblomdell/oblomdell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
