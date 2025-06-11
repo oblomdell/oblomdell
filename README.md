@@ -1,14 +1,17 @@
-# Hi, I'm Oliver 👋
+## Hi, I'm Oliver 👋
 
 I'm a junior developer always eager and motivated to learn new things.
 
+### 🔍 About me
 - 🎓 Graduate in Computer Science & Information Architecture
 - 📍 Based in Malmö, Sweden
 - 👨‍💻 Currently focused on React & Next.js
 
+### 🛠 Tech stack
 - **Languages:** JavaScript, TypeScript, Python, SQL
 - **Web & APIs:** React & Next.js, Node.js & Express, REST
 
+### 🌐 Find me
 - 🌍 [oliverblomdell.se](https://oliverblomdell.se) (Coming very soon)
 - 💼 [LinkedIn](https://www.linkedin.com/in/oliverblomdell/)
 
