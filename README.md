@@ -6,13 +6,13 @@ I'm a junior developer always eager and motivated to learn new things.
 - 📍 Based in Malmö, Sweden
 - 👨‍💻 Currently focused on React & Next.js
 
-[→ Find my projects here](https://oliverblomdell.se)
-
 - **Languages:** JavaScript, TypeScript, Python, SQL
 - **Web & APIs:** React & Next.js, Node.js & Express, REST
 
 - 🌍 [oliverblomdell.se](https://oliverblomdell.se) (Coming very soon)
 - 💼 [LinkedIn](https://www.linkedin.com/in/oliverblomdell/)
+
+[→ Find my projects here](https://oliverblomdell.se)
 <!--
 **oblomdell/oblomdell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
