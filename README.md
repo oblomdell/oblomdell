@@ -12,10 +12,8 @@ I'm a junior developer always eager and motivated to learn new things.
 - **Web & APIs:** React & Next.js, Node.js & Express, REST
 
 ### 🌐 Find me
-- 🌍 [oliverblomdell.se](https://oliverblomdell.se) (Coming very soon)
+- 🌍 [Find my projects here](https://oliverblomdell.se) (Coming very soon)
 - 💼 [LinkedIn](https://www.linkedin.com/in/oliverblomdell/)
-
-[→ Find my projects here](https://oliverblomdell.se)
 <!--
 **oblomdell/oblomdell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
